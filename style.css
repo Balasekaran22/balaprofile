@@ -1,0 +1,60 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+    }
+    header{
+        height:500px;
+    background-color:#0d4a4a;
+    }
+    .d1 img{
+        margin-top:60px;
+        margin-left:60px;
+        border-radius:50%;
+        
+    }
+    #i1{
+        display:flex;
+    }
+     .d2 h1{
+            font-size:40px;
+            text-align:center;
+            margin:50px;
+            color:#a5b5b5;
+            font-family:Algerian;
+            
+    }
+    .d2 h3{
+        font-size:30px;
+        font-style:italic;
+        color:#1a123d;
+        margin-left:50px;
+    
+    }
+    
+    .d3{
+        height:60px;
+        background-color:#208c8c;
+    }
+    .d3 nav{
+        text-decoration:none;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-around;
+        
+    }
+    a{
+     font-size:30px;
+    text-decoration:none;
+    padding-top:10px;
+    color:white;
+    }
+    a:hover{
+    color:black;
+    background-color:pink;
+    border-radius:50%;
+    }
+    
+    
+      
+
